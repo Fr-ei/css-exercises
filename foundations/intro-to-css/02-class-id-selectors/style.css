@@ -1,1 +1,32 @@
 /* Add CSS Styling */
+
+/*                           CLASSES                      */
+
+/* This or the following paragraph should work for <p>
+.odd-elements {
+    background-color: #ff9999;
+    font-family: "Verdana", "DejaVu Sans", serif;
+} */
+
+p {
+    background-color: #ff9999;
+    font-family: "Verdana", "DejaVu Sans", serif;
+}
+
+.cooler-element {
+    font-size: 24px;
+}
+
+
+/*                          IDs                     */
+
+#one-id {
+    color: blue;
+    font-size: 36px;
+}
+
+#another-id {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
